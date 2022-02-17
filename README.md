@@ -78,3 +78,14 @@ interactive result explorer to visualize the highest ranked enrichments from the
 
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891784/ - ten simple rules for getting started with 
 command-line bioinformatics.
+
+* https://www.bioinformatics.recipes - a "bioinformatics recipe" is a collection of commands used to perform
+a bioinformatics data analysis task.
+
+* https://stats.stackexchange.com/questions/160479/practical-hyperparameter-optimization-random-vs-grid-search -
+random search has a probability of 95% of finding a combination of parameters within the 5% optima with only 
+60 iterations. Also compared to other methods it doesn't bog down in local optima.
+
+* https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3 - "...we present ten quick tips 
+to take advantage of machine learning in any computational biology context, by avoiding some common errors 
+that we observed hundreds of times in multiple bioinformatics projects."
