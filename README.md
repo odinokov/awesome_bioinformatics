@@ -75,3 +75,6 @@ for its activation and deactivation.
 * http://lolaweb.databio.org - LOLAweb is a web server and interactive results viewer for enrichment of 
 overlap between a user-provided query region set (a bed file) and a database of region sets. It provides an 
 interactive result explorer to visualize the highest ranked enrichments from the database.
+
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891784/ - ten simple rules for getting started with 
+command-line bioinformatics.
