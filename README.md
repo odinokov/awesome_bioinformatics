@@ -3,7 +3,7 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update on 17/02/2022_
+_Last update on 18/02/2022_
 
 * https://zwdzwd.github.io/InfiniumAnnotation - comprehensive characterization and annotation of Infinium DNA 
 Methylation BeadChip probes (EPIC, HM450, HM27).
@@ -89,3 +89,6 @@ random search has a probability of 95% of finding a combination of parameters wi
 * https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3 - "...we present ten quick tips 
 to take advantage of machine learning in any computational biology context, by avoiding some common errors 
 that we observed hundreds of times in multiple bioinformatics projects."
+
+* https://learnpracticeandshare.com/awesome-bioinformatics-massive-collection-of-resources/ - Awesome Bioinformatics,
+Massive Collection of Resources.
