@@ -3,7 +3,7 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update on 18/02/2022_
+_Last update on 19/02/2022_
 
 * https://zwdzwd.github.io/InfiniumAnnotation - comprehensive characterization and annotation of Infinium DNA 
 Methylation BeadChip probes (EPIC, HM450, HM27).
@@ -79,7 +79,7 @@ interactive result explorer to visualize the highest ranked enrichments from the
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891784/ - ten simple rules for getting started with 
 command-line bioinformatics.
 
-* https://www.bioinformatics.recipes - a "bioinformatics recipe" is a collection of commands used to perform
+* https://www.bioinformatics.recipes - are "bioinformatics recipe" is a collection of commands used to perform
 a bioinformatics data analysis task.
 
 * https://stats.stackexchange.com/questions/160479/practical-hyperparameter-optimization-random-vs-grid-search -
@@ -92,3 +92,7 @@ that we observed hundreds of times in multiple bioinformatics projects."
 
 * https://learnpracticeandshare.com/awesome-bioinformatics-massive-collection-of-resources/ - Awesome Bioinformatics,
 Massive Collection of Resources.
+
+* https://github.com/8080labs/ppscore - The PPS is an asymmetric, data-type-agnostic score that can detect linear 
+or non-linear relationships between two columns. The score ranges from 0 (no predictive power) to 1 
+(perfect predictive power). It can be used as an alternative to the correlation (matrix).
