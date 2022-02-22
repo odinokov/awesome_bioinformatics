@@ -95,7 +95,8 @@ Massive Collection of Resources.
 
 * https://github.com/8080labs/ppscore - The PPS is an asymmetric, data-type-agnostic score that can detect linear 
 or non-linear relationships between two columns. The score ranges from 0 (no predictive power) to 1 
-(perfect predictive power). It can be used as an alternative to the correlation (matrix).
+(perfect predictive power). It can be used as an alternative to the correlation (matrix). 
+As a learning algorithm... use a Decision Tree... The score is calculated on the test sets of a K-fold cross-validation...
 
 * https://en.wikipedia.org/wiki/Relief_(feature_selection) - Relief calculates a feature score for each feature which can then be applied 
 to rank and select top scoring features for feature selection.
