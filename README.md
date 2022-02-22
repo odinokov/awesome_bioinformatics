@@ -3,7 +3,7 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update on 19/02/2022_
+_Last update on 22/02/2022_
 
 * https://zwdzwd.github.io/InfiniumAnnotation - comprehensive characterization and annotation of Infinium DNA 
 Methylation BeadChip probes (EPIC, HM450, HM27).
@@ -96,3 +96,39 @@ Massive Collection of Resources.
 * https://github.com/8080labs/ppscore - The PPS is an asymmetric, data-type-agnostic score that can detect linear 
 or non-linear relationships between two columns. The score ranges from 0 (no predictive power) to 1 
 (perfect predictive power). It can be used as an alternative to the correlation (matrix).
+
+* https://en.wikipedia.org/wiki/Relief_(feature_selection) - Relief calculates a feature score for each feature which can then be applied 
+to rank and select top scoring features for feature selection.
+
+* https://bioinformatics.chat/stir - feature selection, Relief and STIR.
+
+* https://github.com/EpistasisLab/scikit-rebate - this package includes a scikit-learn-compatible Python implementation of ReBATE, a 
+suite of Relief-based feature selection algorithms for Machine Learning. 
+
+* https://www.sciencedirect.com/science/article/pii/S1532046418301412 - "MultiSURF yields the most reliable feature selection performance 
+across a wide range of problem types."
+
+* https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-2-5 - "ReliefF is one such promising algorithm, although it has low 
+success rate for noisy datasets when the interaction effect is small."
+
+* https://bit.ly/3HMnTVl - how to use Relief
+
+* https://www.researchgate.net/figure/The-advantages-of-smoothing-a-Points-represent-single-CpG-methylation-estimates_fig3_232007884 - 
+kernel smoothing: 
+
+* https://scikit-learn.org/stable/modules/density.html - Epanechnikov Quadratic Kernel outperforms other kernels in most cases
+
+* https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/ - Kernel Density Estimation in Python
+
+* https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.savgol_filter.html - a Savitzky-Golay filter
+
+* https://youtu.be/nq6iPZVUxZU - a lecture about UMAP for dimension reduction 
+
+* https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668 - how UMAP works and why it is better than tSNE (open the link in 
+incognito mode): 
+
+* https://pair-code.github.io/understanding-umap/ - to see how UMAP parameters affect clustering
+
+* https://umap-learn.readthedocs.io - Python library
+
+* https://bit.ly/3fxr2fp - how to find best parameters for UMAP
