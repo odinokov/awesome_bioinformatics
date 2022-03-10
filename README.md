@@ -133,3 +133,11 @@ incognito mode):
 * https://umap-learn.readthedocs.io - Python library
 
 * https://bit.ly/3fxr2fp - how to find best parameters for UMAP
+
+* https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
+
+* https://github.com/crazyhottommy/ChIP-seq-analysis - Resources on ChIP-seq data which include papers, methods, links to software, and analysis from Tommy Tang - the developer of pyflow-ChIPseq and ATACseq pipelines.
+
+* https://liorpachter.wordpress.com/seq/ - a list of papers on various sequencing technologies and assays from a Bren Professor of Computational Biology at Caltech.
+
+* https://bit.ly/3CxA2fm - Proportional Variability as a non-parametric alternative to the coefficient of variation.
