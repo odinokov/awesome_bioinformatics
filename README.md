@@ -3,7 +3,7 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update on 22/02/2022_
+_Last update on 29/03/2022_
 
 * https://zwdzwd.github.io/InfiniumAnnotation - comprehensive characterization and annotation of Infinium DNA 
 Methylation BeadChip probes (EPIC, HM450, HM27).
@@ -141,3 +141,5 @@ incognito mode):
 * https://liorpachter.wordpress.com/seq/ - a list of papers on various sequencing technologies and assays from a Bren Professor of Computational Biology at Caltech.
 
 * https://bit.ly/3CxA2fm - Proportional Variability as a non-parametric alternative to the coefficient of variation.
+
+* https://github.com/genome/bam-readcount - is a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions. 
