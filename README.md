@@ -3,7 +3,10 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update on 29/03/2022_
+_Last update on 01/04/2022_
+
+* https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html - Python Programming And Numerical Methods: 
+A Guide For Engineers And Scientists
 
 * https://zwdzwd.github.io/InfiniumAnnotation - comprehensive characterization and annotation of Infinium DNA 
 Methylation BeadChip probes (EPIC, HM450, HM27).
