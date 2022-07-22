@@ -3,7 +3,7 @@ yet another awesome list of bioinformatics links
 (a mess to be sorted)
 ---------------------
 
-_Last update pn 2022-07-21_
+_Last update pn 2022-07-22_
 
 
 * https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html - Python Programming And Numerical Methods: 
@@ -57,6 +57,12 @@ Ph.D.
 
 * https://medium.com/age-of-awareness/12-thing-you-should-know-before-you-start-a-phd-9c064a979e8 - 12 Things 
 You Should Know Before You Start A PhD
+
+*  https://phd.academy/the-book - PhD: an uncommon guide to research, writing & PhD life is your essential guide 
+to the basic principles every PhD student needs to know. Designed to be applicable to virtually any field of study, 
+it covers everything from finding a research topic, getting to grips with the literature, 
+planning and executing research, coping with the inevitable problems that arise, through to writing, 
+submitting and successfully defending your thesis.
 
 * https://github.com/ryanlayer/giggle - GIGGLE is a genomics search engine that identifies and ranks the 
 significance of shared genomic loci between query features and thousands of genome interval files.
